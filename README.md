@@ -1,5 +1,4 @@
-##### Hi,
-I'm **Dominik** and here is one part of me and my life. 
+Hi, I'm **Dominik** and here is one part of me and my life. 
 I've spend some time writing codes i.e. creating **mini-games** and **web applications** and i really do enjoy it.
 
 1. Creating web apps using:
