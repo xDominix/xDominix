@@ -7,10 +7,10 @@ I've spend some time writing codes i.e. creating **mini-games** and **web applic
 
 > <a href="https://pl.wikipedia.org/wiki/Angular_(framework)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40px" height="40px"/></a> with <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px" height="40px"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px"/></a>
 
-2. Creating games with the help of:
+2. Making games with the help of:
 > <a href="https://pl.wikipedia.org/wiki/Unity_(silnik_gry)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" height="40px"/></a> with <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" height="40px"/></a>
 
-3. Some little algorythms - also something interesting:
+3. Writing some little algorythms? ...also something interesting:
 > <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" height="40px"/></a>
 
 4. No stranger to me:
