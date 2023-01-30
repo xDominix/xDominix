@@ -1,6 +1,6 @@
 ### Hi,
 I'm **Dominik** and here is one part of me and my life. 
-I've spend some time writing codes i.e. **creating games** and **web applications** and i really do enjoy it.
+I've spend some time writing codes i.e. creating **mini-games** and **web applications** and i really do enjoy it.
 
 1. Creating web apps using:
 > <a href="https://pl.wikipedia.org/wiki/React.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px" /></a> with <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px"/></a>
